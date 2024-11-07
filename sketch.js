@@ -8,6 +8,7 @@ const points = [
     [0, 28], [25, -10], [6, 458], [40, 540], [300, 500]
   ];
 
+  
 // Class for circles with dot
 class DotCircle {
   constructor(x, y, outerDiameter, innerDiameter, numCircles, dotColor, fillColor) {
